@@ -1,6 +1,5 @@
 # python-Ricard-Clayton
 Signing Jozef Marusak 
-# Richard Clayton was here - September 21, 2021 7:51 am
 
 ##The main objective of this assignment is to get more familiar with github functionalities.
 
